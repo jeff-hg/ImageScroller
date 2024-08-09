@@ -1,3 +1,6 @@
+/**
+ * Main class where the whole project is built from
+ */
 package main;
 
 public class Main {

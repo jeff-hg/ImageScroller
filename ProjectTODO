@@ -1,0 +1,10 @@
+TODO:
+- Enable image resizing
+	- Create a setting changing the width of the image, the height should automatically be adjusted
+	- Resize the window to about the size of the image
+- Allow image scrolling with arrow keys, spacebar, pageup & pagedown
+- Enable multiple tabs
+- Enable this app to run from Desktop or terminal
+- Create an Archive of recently opened and saved directories
+- Enable the program to copy and save files if the user wants
+- Enable dark mode, margin & padding settings. Brush up on the program to make it look presentable.
